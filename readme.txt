@@ -8,5 +8,7 @@ $ git add readme.txt
 
 Creating a new branch is quick AND simple.
 
-Creating a new branch is quick AND software. --dev
+Creating a new branch is quick AND simple. --dev 
+
+ --Git is free software -- git statu
 
